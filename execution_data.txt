@@ -1,0 +1,7 @@
+testBasketScreenShotCompareQA2HU,11251,PASSED,196
+testFAQsScreenshotCompareQA2HU,18505,PASSED,196
+testHowToUseScreenshotCompareQA2HU,16679,FAILED,196
+testLogoutMainPageScreenshotCompareQA2HU,16204,PASSED,196
+testTermsAndConsScreenshotCompareQA2HU,25862,PASSED,196
+testLandingPageScreenshotCompareQA2HU,12663,FAILED,196
+testStationLocatorScreenshotCompareQA2HU,19391,FAILED,196

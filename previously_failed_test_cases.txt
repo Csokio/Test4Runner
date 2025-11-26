@@ -1,0 +1,4 @@
+testContactUsPageScreenshotCompareQA2HU(tests.qa2hu.ImageCompareQA2HU)
+testHowToUseScreenshotCompareQA2HU(tests.qa2hu.ImageCompareQA2HU)
+testLandingPageScreenshotCompareQA2HU(tests.qa2hu.ImageCompareQA2HU)
+testStationLocatorScreenshotCompareQA2HU(tests.qa2hu.ImageCompareQA2HU)
